@@ -47,7 +47,7 @@ const C20Mayo2024 = () => {
             </p>
           </div>
         </div>
-        <ul className="flex gap-x-9 mt-4 5xl:text-xs 7xl:text-sm 9xl:text-xl text-white font-semibold">
+        <ul className="flex gap-x-9 mt-4 7xl:text-sm 9xl:text-xl text-white font-semibold">
           <li>Inicio</li>
           <li>Empresa</li>
           <li>Ankai en México</li>
