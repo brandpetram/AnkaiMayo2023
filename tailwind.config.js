@@ -4,7 +4,9 @@ module.exports = {
 
   theme: {
     extend: {
-      colors: {},
+      colors: {
+        "red-custom": "#C70A11",
+      },
     },
     screens: {
       xs: "340px",
