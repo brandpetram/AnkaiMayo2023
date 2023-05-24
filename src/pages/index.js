@@ -6,6 +6,7 @@ export default function Example() {
     <div className="bg-white max-w-screen-9xl mx-auto">
       <C20Mayo2024 />
       <C21Mayo2024 />
+        <img src="/1920@1x.jpg" alt=""/>
     </div>
   );
 }
