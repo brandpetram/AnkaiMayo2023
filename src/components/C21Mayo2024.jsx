@@ -1,13 +1,14 @@
 import Image from "next/image";
 import React from "react";
+import Imgix from "react-imgix"
 
 const C21Mayo2024 = () => {
   return (
     <div className="relative">
       <div className="max-w-screen-9xl">
-        <Image
+        <Imgix
           className="7xl:h-[936px] 9xl:h-[1290px] object-cover aspect-video"
-          src="/assets/ankai-mexico-camion-electrico.jpg"
+          src="https://brandpetram.imgix.net/ankai/ankai-mexico-camion-electrico.jpg"
           width={2590}
           height={1440}
           alt="barra blanca"
