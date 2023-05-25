@@ -15,7 +15,7 @@ const C21Mayo2024 = () => {
       <div className="absolute text-18xl text-gray-200 bg-[rgba(0,0,0,0.85)] pl-14 pr-16 py-14 top-36 right-0 z-20">
         <p className="leading-4">Los</p>
         <p className="leading-4 mt-10 ">Camiones</p>
-        <p className="leading-4 mt-10">Asiático</p>
+        <p className="leading-4 mt-10">Asiáticos</p>
         <p className="leading-4 mt-10">Líderes</p>
         <p className="leading-4 mt-10">en México</p>
       </div>
