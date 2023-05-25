@@ -6,19 +6,19 @@ const C21Mayo2024 = () => {
     <div className="relative">
       <div className="max-w-screen-9xl">
         <Image
-          className="7xl:h-[936px] object-cover aspect-video"
+          className="7xl:h-[936px] 9xl:h-[1290px] object-cover aspect-video"
           src="/assets/ankai-mexico-camion-electrico.jpg"
           width={2590}
           height={1440}
           alt="barra blanca"
         />
       </div>
-      <div className="absolute text-18xl text-gray-200 bg-[rgba(0,0,0,0.85)] pl-14 pr-16 py-14 top-36 right-0 z-20">
+      <div className="absolute 7xl:text-18xl 9xl:text-24xl text-gray-200 bg-[rgba(0,0,0,0.85)] 7xl:px-16 9xl:px-20 7xl:py-14 9xl:py-20 7xl:top-36 9xl:top-52 right-0 z-20 font-light">
         <p className="leading-4">Los</p>
-        <p className="leading-4 mt-10 ">Camiones</p>
-        <p className="leading-4 mt-10">Asiático</p>
-        <p className="leading-4 mt-10">Líderes</p>
-        <p className="leading-4 mt-10">en México</p>
+        <p className="leading-4 7xl:mt-9 9xl:mt-12">Camiones</p>
+        <p className="leading-4 7xl:mt-9 9xl:mt-12">Asiático</p>
+        <p className="leading-4 7xl:mt-9 9xl:mt-12">Líderes</p>
+        <p className="leading-4 7xl:mt-9 9xl:mt-12">en México</p>
       </div>
     </div>
   );
