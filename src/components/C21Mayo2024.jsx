@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import Imgix from "react-imgix"
+import Imgix from "react-imgix";
 
 const C21Mayo2024 = () => {
   return (
