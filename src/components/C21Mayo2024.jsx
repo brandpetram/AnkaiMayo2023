@@ -12,12 +12,12 @@ const C21Mayo2024 = () => {
           alt="barra blanca"
         />
       </div>
-      <div className="absolute text-7xl text-white bg-[rgba(0,0,0,0.85)] pl-12 pr-16 py-8 top-32 right-0 z-20">
-        <p className="leading-8">Los</p>
-        <p className="leading-8">Camiones</p>
-        <p className="leading-8">Asiático</p>
-        <p className="leading-8">Líderes</p>
-        <p className="leading-8">en México</p>
+      <div className="absolute text-18xl text-white bg-[rgba(0,0,0,0.85)] pl-12 pr-16 py-14 top-32 right-0 z-20">
+        <p className="leading-4">Los</p>
+        <p className="leading-4 mt-10 ">Camiones</p>
+        <p className="leading-4 mt-10">Asiático</p>
+        <p className="leading-4 mt-10">Líderes</p>
+        <p className="leading-4 mt-10">en México</p>
       </div>
     </div>
   );
